@@ -2,5 +2,5 @@
 - 👀 I’m interested in Singing and reading self-help books. 
 - 🌱 I’m currently learning C language along with pyplot library in python.
 - 📚 I'm a 1st year college student at GGSIPU EDU.
-- Pursuing Btech AiMl
+- Pursuing Btech AIML
 - 💞️ I’m looking to collaborate with a tech club in my college. 
